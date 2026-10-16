@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-style-agent",
+  "owner": { "name": "Tim O'Connell" },
+  "metadata": { "description": "A Claude Code skill for building WhatsApp-style AI agents into apps" },
+  "plugins": [
+    {
+      "name": "whatsapp-style-agent",
+      "source": "./",
+      "description": "Build a WhatsApp-style AI agent into an app: chat threads, typed messages, two-speed turns, and a cadence-governed job runner with push.",
+      "version": "0.1.0"
+    }
+  ]
+}

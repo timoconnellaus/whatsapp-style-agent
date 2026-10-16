@@ -1,0 +1,10 @@
+{
+  "name": "whatsapp-style-agent",
+  "description": "Build a WhatsApp-style AI agent into an app: one chat thread per user goal, typed messages (text, item cards, answer chips), and an agent that answers now or takes the work away and messages back later through a cadence-governed job runner with push.",
+  "version": "0.1.0",
+  "author": { "name": "Tim O'Connell", "url": "https://github.com/timoconnellaus" },
+  "homepage": "https://github.com/timoconnellaus/whatsapp-style-agent",
+  "repository": "https://github.com/timoconnellaus/whatsapp-style-agent",
+  "license": "MIT",
+  "keywords": ["agent", "chat", "messaging", "cloudflare-workers", "ai-sdk", "d1", "push-notifications"]
+}
